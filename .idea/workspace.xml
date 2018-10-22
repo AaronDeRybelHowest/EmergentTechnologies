@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7bd86df-16bb-47d5-ac40-88031d772cff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Encoding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Encoding.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Normalization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Normalization.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a7bd86df-16bb-47d5-ac40-88031d772cff" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +9,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/EmergentTechnologies$digit_classifier.coverage" NAME="digit_classifier Coverage Results" MODIFIED="1539762411846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$Creditcard_data.coverage" NAME="Creditcard_data Coverage Results" MODIFIED="1537443343992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exploration" />
-    <SUITE FILE_PATH="coverage/EmergentTechnologies$EmergentTechnologies.coverage" NAME="EmergentTechnologies Coverage Results" MODIFIED="1539754886515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/EmergentTechnologies$EmergentTechnologies.coverage" NAME="EmergentTechnologies Coverage Results" MODIFIED="1539779758552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$Solution_car_preprocessing.coverage" NAME="Solution_car_preprocessing Coverage Results" MODIFIED="1539623340918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$gym_test.coverage" NAME="gym_test Coverage Results" MODIFIED="1536751721677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/OpenAIGym" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$Iforest_gauss.coverage" NAME="Iforest_gauss Coverage Results" MODIFIED="1537256840159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Scripts_test" />
@@ -45,38 +42,38 @@
     <session id="693941759">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
-          <entry key="project.open.time.0" value="8" />
-          <entry key="project.open.time.1" value="5" />
+          <entry key="project.closed" value="44" />
+          <entry key="project.open.time.0" value="11" />
+          <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="42" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="exclude" value="2" />
-          <entry key="gitignore" value="1" />
-          <entry key="ipynb" value="43" />
+          <entry key="gitignore" value="2" />
+          <entry key="ipynb" value="47" />
           <entry key="md" value="4" />
-          <entry key="py" value="29" />
+          <entry key="py" value="32" />
           <entry key="sample" value="1" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="43" />
+          <entry key="IPNB" value="47" />
           <entry key="Markdown" value="4" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="29" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -84,84 +81,27 @@
           <entry key="Python Console" value="888" />
           <entry key="dummy" value="43" />
           <entry key="exclude" value="136" />
-          <entry key="gitignore" value="64" />
+          <entry key="gitignore" value="78" />
           <entry key="md" value="2247" />
-          <entry key="py" value="15928" />
+          <entry key="py" value="21071" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="2247" />
-          <entry key="PLAIN_TEXT" value="243" />
-          <entry key="Python" value="16816" />
+          <entry key="PLAIN_TEXT" value="257" />
+          <entry key="Python" value="21959" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Excercices/Car_preprocessing.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Normalization.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README!.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Normalization_scikit-learn.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Demo/Python_scripts/Normalization_scikit-learn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Encoding.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Excercices/KNN_wine.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="1" />
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -171,8 +111,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -214,18 +154,21 @@
         <option value="$PROJECT_DIR$/src/Scripts_test/iforest_KDDCup99.py" />
         <option value="$PROJECT_DIR$/src/Demo/digit_classifier.ipynb" />
         <option value="$PROJECT_DIR$/src/Scripts_test/iforest_Creditcard.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Excercices/Iforest.ipynb" />
         <option value="$PROJECT_DIR$/src/notes.md" />
         <option value="$PROJECT_DIR$/src/Demo/Isolation_forest_example.py" />
         <option value="$PROJECT_DIR$/README!.md" />
-        <option value="$PROJECT_DIR$/src/Excercices/KNN_wine.ipynb" />
         <option value="$PROJECT_DIR$/src/Demo/Isolation_forest_example.ipynb" />
         <option value="$PROJECT_DIR$/src/Excercices/Solution_car_preprocessing.py" />
         <option value="$PROJECT_DIR$/src/Excercices/Car_preprocessing.ipynb" />
         <option value="$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Normalization.ipynb" />
         <option value="$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Normalization_scikit-learn.ipynb" />
+        <option value="$PROJECT_DIR$/src/Excercices/KNN_wine.ipynb" />
         <option value="$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Encoding.ipynb" />
+        <option value="$PROJECT_DIR$/src/Demo/Jupyter_notebooks/digit_classifier.ipynb" />
+        <option value="$PROJECT_DIR$/src/case/Fraud Detection.ipynb" />
+        <option value="$PROJECT_DIR$/src/case/Fraud Detection.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -235,11 +178,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-240" />
-    <option name="y" value="-15" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -266,26 +209,6 @@
               <item name="EmergentTechnologies" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data_ex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EmergentTechnologies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EmergentTechnologies" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EmergentTechnologies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EmergentTechnologies" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Jupyter_notebooks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EmergentTechnologies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EmergentTechnologies" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EmergentTechnologies" type="b2602c69:ProjectViewProjectNode" />
@@ -342,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Solution_car_preprocessing">
+  <component name="RunManager" selected="Python.digit_classifier">
     <configuration name="EmergentTechnologies" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="EmergentTechnologies" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -350,8 +273,8 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="SDK_HOME" value="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -361,70 +284,22 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="Creditcard_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="true" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="EmergentTechnologies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Exploration" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Exploration/Creditcard_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Isolation_forest_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="EmergentTechnologies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\src\Demo\Python_scripts\Isolation_forest_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Solution_car_preprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="EmergentTechnologies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Excercices/Solution_car_preprocessing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -449,42 +324,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iforest_Creditcard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="digit_classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="EmergentTechnologies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Scripts_test" />
+      <option name="SDK_HOME" value="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Scripts_test/iforest_Creditcard.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="iforest_KDDCup99" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="EmergentTechnologies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Scripts_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Scripts_test/iforest_KDDCup99.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Demo/Python_scripts/digit_classifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -495,19 +348,11 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.EmergentTechnologies" />
-      <item itemvalue="Python.Isolation_forest_example" />
-      <item itemvalue="Python.Creditcard_data" />
-      <item itemvalue="Python.iforest_KDDCup99" />
-      <item itemvalue="Python.iforest_Creditcard" />
-      <item itemvalue="Python.Solution_car_preprocessing" />
+      <item itemvalue="Python.digit_classifier" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Solution_car_preprocessing" />
-        <item itemvalue="Python.Isolation_forest_example" />
-        <item itemvalue="Python.iforest_Creditcard" />
-        <item itemvalue="Python.iforest_KDDCup99" />
-        <item itemvalue="Python.Creditcard_data" />
+        <item itemvalue="Python.digit_classifier" />
       </list>
     </recent_temporary>
   </component>
@@ -525,15 +370,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15838926" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2185501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4283688" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4283688" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39716312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -547,7 +391,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32885906" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.282516" />
       <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
     </layout>
   </component>
@@ -675,6 +519,11 @@
           <line>99</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Demo/Python_scripts/digit_classifier.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -764,15 +613,6 @@ plt.show()</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Digit_classifier-checkpoint.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.src/Test_notebook.py" />
-    <entry file="file://$PROJECT_DIR$/.src/Classify_digits.py" />
     <entry file="file://$PROJECT_DIR$/.src/notes.md" />
     <entry file="file://$PROJECT_DIR$/.src/Classify_digits.ipynb" />
     <entry file="file://$PROJECT_DIR$/src/Classify_digits.ipynb" />
@@ -807,13 +647,6 @@ plt.show()</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo/Python_scripts/digit_classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/utils/validation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -838,13 +671,6 @@ plt.show()</expression-string>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4335">
           <caret line="269" selection-start-line="269" selection-end-line="269" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -893,13 +719,6 @@ plt.show()</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo/Jupyter_notebooks/digit_classifier.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Isolation_forest_example.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -926,10 +745,10 @@ plt.show()</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Excercices/Solution_car_preprocessing.py" />
     <entry file="file://$PROJECT_DIR$/src/Excercices/Car_preprocessing_solution.ipynb" />
-    <entry file="file://$PROJECT_DIR$/src/Excercices/Car_preprocessing.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+    <entry file="file://$PROJECT_DIR$/src/Demo/Python_scripts/Normalization_scikit-learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -937,27 +756,6 @@ plt.show()</expression-string>
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo/Python_scripts/Normalization_scikit-learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Excercices/KNN_wine.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Normalization.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
         </state>
       </provider>
     </entry>
@@ -971,10 +769,67 @@ plt.show()</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Normalization.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo/Python_scripts/Encoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Excercices/Car_preprocessing.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Excercices/KNN_wine.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo/Python_scripts/digit_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Demo/Jupyter_notebooks/Encoding.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="9" />
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/case/Fraud Detection.ipynb" />
+    <entry file="file://$PROJECT_DIR$/src/case/Fraud Detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo/Jupyter_notebooks/digit_classifier.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
